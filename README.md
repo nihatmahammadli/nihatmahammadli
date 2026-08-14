@@ -3,7 +3,7 @@
 📱 A Junior **Android Developer** from Azerbaijan  
 
 🌱 I’m currently learning **Flutter**   
-🔭 I’m working on Android apps like **Code Nox**, **Fitness App** 
+🔭 I’m working on Android apps like **Code Nox**, **Fitness App**   
 💻 I also build web projects like **Fitnest**, **Who am i**, and **Code Nox**  
 
 💬 Ask me about **Mobile Programming, Kotlin or Dart**  
