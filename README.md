@@ -25,7 +25,8 @@
 ---
 
 ## 🛠️ Languages and Tools:
-- **Android:** Kotlin, XML, Jetpack Compose, Retrofit, Firebase, MVVM, Room, Dagger Hilt, Jetpack Libraries  
+- **Android:** Kotlin, XML, Jetpack Compose, Retrofit, Firebase, MVVM, Room, Dagger Hilt, Jetpack Libraries
+- **Flutter:** Dart
 - **Web:** HTML5, CSS3, JavaScript, Node.js, TailwindCSS, Handlebars  
 - **Other:** Git/GitHub, Figma, Trello, Slack
 
